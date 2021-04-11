@@ -1,4 +1,4 @@
-### Eii bem vindo(a) ao meu [GitHub.](https://github.com/og4briel)
+### Eii bem vindo(a) ao meu [GitHub](https://github.com/og4briel)
 ---
 <p align="center">
 <img src="https://i.ibb.co/5cJ2R4W/811edecaf2ef.jpg" alt="IMG" width="200" height="170"/>
@@ -11,10 +11,10 @@
 <a href="https://github.com/og4briel/g4bot"><img title="NOME" src="https://img.shields.io/badge/BOT-G4BOT-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://github.com/og4briel"><img title="SEGUIDORES" src="https://img.shields.io/github/Followers/og4briel?color=blue&style=flat-square"></a>
-<a href="https://github.com/og4briel"><img title="ESTRELAS" src="https://img.shields.io/github/Stars/og4briel/og4briel?color=red&style=flat-square"></a>
-<a href="https://github.com/og4briel"><img title="TRABALHOS" src="https://img.shields.io/github/Fork/og4briel/og4briel?color=red&style=flat-square"></a>
-<a href="https://github.com/og4briel"><img title="VISUALIZAÇÕES" src="https://img.shields.io/github/Watchers/og4briel/og4briel?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/og4briel"><img title="SEGUIDORES" src="https://img.shields.io/github/followers/og4briel?color=blue&style=flat-square"></a>
+<a href="https://github.com/og4briel"><img title="ESTRELAS" src="https://img.shields.io/github/stars/og4briel/og4briel?color=red&style=flat-square"></a>
+<a href="https://github.com/og4briel"><img title="TRABALHOS" src="https://img.shields.io/github/fork/og4briel/og4briel?color=red&style=flat-square"></a>
+<a href="https://github.com/og4briel"><img title="VISUALIZAÇÕES" src="https://img.shields.io/github/watchers/og4briel/og4briel?label=Watchers&color=blue&style=flat-square"></a>
 <a href="https://instagram.com/o_g4briel_"><img src="https://image.flaticon.com/icons/svg/174/174855.svg" alt="alt text" width="20" height="20"></a>
  
 </p>
