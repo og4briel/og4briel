@@ -1,7 +1,7 @@
 ### Eii bem vindo(a) ao meu [GitHub](https://github.com/og4briel)
 ---
 <p align="center">
-<img src="https://i.ibb.co/5cJ2R4W/811edecaf2ef.jpg" alt="IMG" width="200" height="170"/>
+<img src="*https://ibb.co/h19Ftgx*" alt="IMG" width="200" height="170"/>
 </p>
 </p>
 <p align="center">
