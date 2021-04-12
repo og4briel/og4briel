@@ -1,4 +1,4 @@
-### Eii bem vindo(a) ao meu [GitHub](https://github.com/og4briel)
+### Eii bem vindo(a) ao meu [PERFIL DO GITHUB](https://github.com/og4briel)
 ---
 <p align="center">
 <img src="https://i.ibb.co/M5Sk3gy/pp.jpg" alt="IMG" width="200" height="170"/>
